@@ -1,0 +1,13 @@
+.container{
+    width: 350px;
+    max-height: 150px;
+    background-color: black;
+    padding: 65px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.firstex{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+}
